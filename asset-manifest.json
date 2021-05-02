@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cristiano-Ashim/fwf/static/css/main.ce655148.chunk.css",
+    "main.js": "/Cristiano-Ashim/fwf/static/js/main.2b9d92df.chunk.js",
+    "main.js.map": "/Cristiano-Ashim/fwf/static/js/main.2b9d92df.chunk.js.map",
+    "runtime-main.js": "/Cristiano-Ashim/fwf/static/js/runtime-main.6aa7d6c1.js",
+    "runtime-main.js.map": "/Cristiano-Ashim/fwf/static/js/runtime-main.6aa7d6c1.js.map",
+    "static/js/2.18f0e5df.chunk.js": "/Cristiano-Ashim/fwf/static/js/2.18f0e5df.chunk.js",
+    "static/js/2.18f0e5df.chunk.js.map": "/Cristiano-Ashim/fwf/static/js/2.18f0e5df.chunk.js.map",
+    "static/js/3.bf0b88af.chunk.js": "/Cristiano-Ashim/fwf/static/js/3.bf0b88af.chunk.js",
+    "static/js/3.bf0b88af.chunk.js.map": "/Cristiano-Ashim/fwf/static/js/3.bf0b88af.chunk.js.map",
+    "index.html": "/Cristiano-Ashim/fwf/index.html",
+    "static/css/main.ce655148.chunk.css.map": "/Cristiano-Ashim/fwf/static/css/main.ce655148.chunk.css.map",
+    "static/js/2.18f0e5df.chunk.js.LICENSE.txt": "/Cristiano-Ashim/fwf/static/js/2.18f0e5df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aa7d6c1.js",
+    "static/js/2.18f0e5df.chunk.js",
+    "static/css/main.ce655148.chunk.css",
+    "static/js/main.2b9d92df.chunk.js"
+  ]
+}
